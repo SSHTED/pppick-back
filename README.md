@@ -27,8 +27,8 @@ Front-End|박정도|https://github.com/jeongdopark
 
 ## 📄 협업 문서
 - 요구사항 명세서 : https://docs.google.com/spreadsheets/d/1rjobxqth3hT1llzdAlExbxPFiDr5VKQ4-HNzSaPFTOs/edit#gid=0
-- 테이블 명세서 : https://docs.google.com/spreadsheets/d/1g7OMKohGoOJHb5zpbEZkxWEtyvjFE_WmQDpd1fIFgIY/edit#gid=0
-- 인스턴스 명세서 : https://docs.google.com/spreadsheets/d/1RTW6A1XULyyLET6QYOyFSAiDhvXmzM52XFMqolsMMrw/edit#gid=0
+- 테이블 명세서 : https://docs.google.com/spreadsheets/d/1aqqfWq-0bmhZsQnR2jCSDbcofVgwF4vRHhwERZyuU1w/edit#gid=0
+- 인스턴스 명세서 : https://docs.google.com/spreadsheets/d/1y8woZPUVzj54mYuQpUC2nTiA1znv4fG9B3ZPT6oy9sA/edit#gid=362920259
 
 ## 🛠 사용 기술 및 구현 기능
 ### 사용 기술 및 tools
